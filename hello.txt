@@ -1,2 +1,8 @@
 Hello Git!
  I am Learning git for Cloud Engineering.
+
+Day-2 : i am Learning github.
+
+git pull
+git push
+git remote
